@@ -2,6 +2,8 @@
 
 ## Results
 
+### Fraud Detection
+
 | Model | Distribution | Dataset| Precision | Recall | F-1 Score |
 | --- | --- | --- | :---: | :---: | :---: |
 | Logistic Regression | Imbalanced | Validation | 0.83 | 0.28 | 0.42 |
@@ -11,6 +13,13 @@
 | Support Vector Machine | Imbalanced | Validation | 0.77 | 0.56 | 0.65 |
 | Logistic Regression | Balanced | Validation | 1.00 | 0.91 | 0.96 |
 | Shallow Neural Network | Balanced | Validation | 1.00 | 0.86 | 0.92 |
+
+### Not Fraud Detection
+
+| Model | Distribution | Dataset| Precision | Recall | F-1 Score |
+| --- | --- | --- | :---: | :---: | :---: |
+| Logistic Regression | Balanced | Validation | 0.92 | 1.00 | 0.96 |
+| Shallow Neural Network | Balanced | Validation | 0.88 | 1.00 | 0.94 |
 
 ## Data
 
