@@ -12,14 +12,16 @@
 | Gradient Boosting | Imbalanced | Validation | 0.71 | 0.56 | 0.62 |
 | Support Vector Machine | Imbalanced | Validation | 0.77 | 0.56 | 0.65 |
 | Logistic Regression | Balanced | Validation | 1.00 | 0.91 | 0.96 |
-| Shallow Neural Network | Balanced | Validation | 1.00 | 0.86 | 0.92 |
+| Shallow Neural Network - 2 ReLU | Balanced | Validation | 1.00 | 0.91 | 0.96 |
+| Shallow Neural Network - 1 ReLU | Balanced | Validation | 1.00 | 0.87 | 0.93 |
 
 ### Not Fraud Detection
 
 | Model | Distribution | Dataset| Precision | Recall | F-1 Score |
 | --- | --- | --- | :---: | :---: | :---: |
 | Logistic Regression | Balanced | Validation | 0.92 | 1.00 | 0.96 |
-| Shallow Neural Network | Balanced | Validation | 0.88 | 1.00 | 0.94 |
+| Shallow Neural Network - 2 ReLU | Balanced | Validation | 0.92 | 1.00 | 0.96 |
+| Shallow Neural Network - 1 ReLU | Balanced | Validation | 0.89 | 1.00 | 0.94 |
 
 ## Data
 
