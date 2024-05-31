@@ -14,6 +14,9 @@
 | Logistic Regression | Balanced | Validation | 1.00 | 0.91 | 0.96 |
 | Shallow Neural Network - 2 ReLU | Balanced | Validation | 1.00 | 0.91 | 0.96 |
 | Shallow Neural Network - 1 ReLU | Balanced | Validation | 1.00 | 0.87 | 0.93 |
+| Random Forest | Balanced | Validation | 1.00 | 0.87 | 0.93 |
+| Gradient Boosting | Balanced | Validation | 0.94 | 0.93 | 0.94 |
+| Support Vector Machine | Balanced | Validation | 0.98 | 0.93 | 0.96 |
 
 ### Not Fraud Detection
 
@@ -22,6 +25,9 @@
 | Logistic Regression | Balanced | Validation | 0.92 | 1.00 | 0.96 |
 | Shallow Neural Network - 2 ReLU | Balanced | Validation | 0.92 | 1.00 | 0.96 |
 | Shallow Neural Network - 1 ReLU | Balanced | Validation | 0.89 | 1.00 | 0.94 |
+| Random Forest | Balanced | Validation | 0.89 | 1.00 | 0.94 |
+| Gradient Boosting | Balanced | Validation | 0.93 | 0.94 | 0.94 |
+| Support Vector Machine | Balanced | Validation | 0.93 | 0.99 | 0.96 |
 
 ## Data
 
