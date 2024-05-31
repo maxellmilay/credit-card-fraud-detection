@@ -29,6 +29,13 @@
 | Gradient Boosting | Balanced | Validation | 0.93 | 0.94 | 0.94 |
 | Support Vector Machine | Balanced | Validation | 0.93 | 0.99 | 0.96 |
 
+## Testing Shallow Neural Network - 2 ReLU trained with Balanced Data
+
+| Model | Distribution | Dataset| Label | Precision | Recall | F-1 Score |
+| --- | --- | --- | --- | :---: | :---: | :---: |
+| Shallow Neural Network - 2 ReLU | Balanced | Test | Not Fraud | 0.88 | 1.00 | 0.94 |
+| Shallow Neural Network - 2 ReLU | Balanced | Test | Fraud | 1.00 | 0.86 | 0.92 |
+
 ## Data
 
 The dataset csv was not pushed to this repository since it exceeded 100 MB. It can be downloaded [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) instead
